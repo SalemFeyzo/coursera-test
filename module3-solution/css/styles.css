@@ -1,0 +1,45 @@
+.navbar {
+	border-radius: 0;
+}
+.collapsed {
+	background-color: #555;
+}
+.container {
+	margin-top: 40px;
+}
+.col-xs-12, .col-md-12, .col-lg-12 {
+	background-color: #101010;
+	color: #fff;
+	margin-bottom: 3px;
+}
+
+
+
+@media (min-width: 1200px) {
+ 
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+ 
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+ 
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+ 	.container {
+ 		margin-left: 20px;
+ 		margin-right: 20px;
+ 	}
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+ 
+}
+
